@@ -1,3 +1,10 @@
+Welcome to the "data car" g-scale_train_distance_car wiki!
+
+Something of a mess and untested repository of files related to me wanting to build a 'better' track distance car and realized that people are ALSO interested in a scale speedometer that they can see from a distance..  That's where this high sample rate design has the advantage over other two to four magnet per wheel designs.
+
+We can wick the encoder up to max res and find ourselves with 8k pulses (directional via quadrature) per wheel revolution..  INSTANT accurate low speed speedometer calcs.  Well, quickly..
+
+
 # g-scale_train_distance_car <br>
 Use CUI encoder and teensy to create "track distance car" <br>
 Description	Quantity	Unit Price	Cost <br>
