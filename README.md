@@ -1,4 +1,5 @@
-Welcome to the "data car" g-scale_train_distance_car wiki!
+![Datacar](../assets/datacar.jpg?raw=true)
+## Data Car
 
 Something of a mess and untested repository of files related to me wanting to build a 'better' track distance car and realized that people are ALSO interested in a scale speedometer that they can see from a distance..  That's where this high sample rate design has the advantage over other two to four magnet per wheel designs.
 
