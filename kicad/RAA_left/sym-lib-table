@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RAA_left-rescue)(type Legacy)(uri ${KIPRJMOD}/RAA_left-rescue.lib)(options "")(descr ""))
+)
